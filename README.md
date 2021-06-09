@@ -12,13 +12,13 @@ Caractéristiques techniques :
 ![33112](/img/L-33112.jpg)
 
 # Installation dans IDE Arduino:
-Créer un nouveau répertoire nommé "Pierron..." dans le dossier "libraries" de votre dossier Arduino.
-Y placer tous les fichiers.
+<div style="text-align: justify">Créer un nouveau répertoire nommé "Pierron..." dans le dossier "libraries" de votre dossier Arduino.
+Y placer tous les fichiers.</div>
 Ou
-télécharger le dépôt en ZIP et dans l'IDE Arduino : Croquis / inclure bibliothèque / ajouter la bibliothèque ZIP.
+<div style="text-align: justify">télécharger le dépôt en ZIP et dans l'IDE Arduino : Croquis / inclure bibliothèque / ajouter la bibliothèque ZIP.</div>
 
 # Usage :
-Pour utiliser la librairie dans votre propre projet, importez-la avec  *Sketch > Import Library*.
+<div style="text-align: justify">Pour utiliser la librairie dans votre propre projet, importez-la avec  *Sketch > Import Library*.</div>
 
 # RESSOURCES À TÉLÉCHARGER :
 
