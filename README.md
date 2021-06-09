@@ -1,12 +1,35 @@
-# 33112_LED_RVB_GROVE
+# 33112 LED RVB GROVE
 
-LED RGB GROVE [33112](https://www.pierron.fr/interface-arduino-uno-5949.html)
+LED RVB GROVE [33112](https://www.pierron.fr/interface-arduino-uno-5949.html)
+
+<div style="text-align: justify">Ce module "LED RVB GROVE" est basé sur la puce P9813 qui est un pilote LED couleur. Il fournit 3 pilotes à courant constant ainsi qu’une sortie modulée de 256 nuances de gris. Il communique avec un microcontrôleur à l’aide d’une transmission à 2 fils (données et horloge). Cette transmission à 2 fils peut être utilisée pour cascader des modules LED Grove - Chainable RGB supplémentaires. La régénération d’horloge intégrée améliore la distance de transmission.</div>
+
 Caractéristiques techniques :
 - Alimentation : 5 V
 - Consommation : 20 mA
 - Couleur : RVB
 
-![33188](/img/L-33112.jpg)
+![33112](/img/L-33112.jpg)
+
+# Installation dans IDE Arduino:
+Créer un nouveau répertoire nommé "Pierron..." dans le dossier "libraries" de votre dossier Arduino.
+Y placer tous les fichiers.
+ou
+Télécharger le dépôt en ZIP et dans l'IDE Arduino : Croquis / inclure bibliothèque / ajouter la bibliothèque ZIP.
+
+# Usage :
+Pour utiliser la librairie dans votre propre projet, importez-la avec  *Sketch > Import Library*.
+
+# RESSOURCES À TÉLÉCHARGER :
+
+Ressource utilisation : [P9813](https://github.com/pierron-asco-celda/Pierron_33188/blob/master/src/Pierron-33188-Datasheet.pdf)
+
+# Schémas :
+
+![SCH-33188](/img/SCH-33188.png)
+
+![BRD-33188](/img/BRD-33188.png)
+
 
 # Exemple :
 ### Arduino / C++
