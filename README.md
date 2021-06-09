@@ -11,14 +11,19 @@ Caractéristiques techniques :
 
 ![33112](/img/L-33112.jpg)
 
-# Installation dans IDE Arduino:
+# Installation des fichiers dans IDE Arduino:
 <div style="text-align: justify">Créer un nouveau répertoire nommé "Pierron..." dans le dossier "libraries" de votre dossier Arduino.
 Y placer tous les fichiers.</div>
 Ou
 <div style="text-align: justify">télécharger le dépôt en ZIP et dans l'IDE Arduino : Croquis / inclure bibliothèque / ajouter la bibliothèque ZIP.</div>
 
-# Usage :
 <div style="text-align: justify">Pour utiliser la librairie dans votre propre projet, importez-la avec  *Sketch > Import Library*.</div>
+
+# Usage :
+Pour l’utilisation de ce module référez-vous aux indications présentes sur le circuit imprimé GROVE.
+
+![P-33112](/img/P-33112.jpg)
+
 
 # RESSOURCES À TÉLÉCHARGER :
 
@@ -29,7 +34,7 @@ Ressource utilisation : [P9813](https://github.com/pierron-asco-celda/Pierron_33
 ![SCH-33112](/img/SCH-33112.jpg)
 ![BRD-33112](/img/BRD-33112.jpg)
 
-![P-33112](/img/P-33112.MOV)
+![P-33112](/img/P-33112.jpg)
 
 # Exemple :
 ### Arduino / C++
