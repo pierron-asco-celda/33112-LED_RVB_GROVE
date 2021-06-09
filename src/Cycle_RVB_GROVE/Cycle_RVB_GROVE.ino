@@ -1,16 +1,3 @@
-# 33112_LED_RVB_GROVE
-
-LED RGB GROVE [33112](https://www.pierron.fr/interface-arduino-uno-5949.html)
-Caractéristiques techniques :
-- Alimentation : 5 V
-- Consommation : 20 mA
-- Couleur : RVB
-
-![33188](/img/L-33112.jpg)
-
-# Exemple :
-### Arduino / C++
-```cpp
 #include <ChainableLED.h>
 
 #define NUM_LEDS  5
@@ -42,7 +29,3 @@ void loop()
   else if (hue<=0.0 && !up)
     up = true;
 }
-```
-## À propos :
-
-PIERRON ASCO-CELDA (https://www.pierron.fr/).
