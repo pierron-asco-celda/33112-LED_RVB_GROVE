@@ -2,7 +2,7 @@
 
 LED RVB GROVE [33112](https://www.pierron.fr/interface-arduino-uno-5949.html)
 
-<div style="text-align: justify">Ce module "LED RVB GROVE" est basé sur la puce P9813 qui est un pilote LED couleur. Il fournit 3 pilotes à courant constant ainsi qu’une sortie modulée de 256 nuances de gris. Il communique avec un microcontrôleur à l’aide d’une transmission à 2 fils (données et horloge). Cette transmission à 2 fils peut être utilisée pour cascader des modules LED Grove - Chainable RGB supplémentaires. La régénération d’horloge intégrée améliore la distance de transmission.</div>
+<div style="text-align: justify">Ce module "LED RVB GROVE" est basé sur la puce P9813 qui est un pilote LED couleur. Il fournit 3 pilotes à courant constant ainsi qu’une sortie modulée de 256 nuances de gris. Il communique avec un microcontrôleur à l’aide d’une transmission à 2 fils (données et horloge). Cette transmission à 2 fils peut être utilisée pour cascader des modules LED Grove : "Chainable RGB" supplémentaires. La régénération d’horloge intégrée améliore la distance de transmission.</div>
 
 Caractéristiques techniques :
 - Alimentation : 5 V
