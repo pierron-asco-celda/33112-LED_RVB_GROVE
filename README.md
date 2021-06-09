@@ -34,8 +34,6 @@ Ressource utilisation : [P9813](https://github.com/pierron-asco-celda/Pierron_33
 ![SCH-33112](/img/SCH-33112.jpg)
 ![BRD-33112](/img/BRD-33112.jpg)
 
-![P-33112](/img/P-33112.jpg)
-
 # Exemple :
 ### Arduino / C++
 ```cpp
