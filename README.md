@@ -14,8 +14,8 @@ Caractéristiques techniques :
 # Installation dans IDE Arduino:
 Créer un nouveau répertoire nommé "Pierron..." dans le dossier "libraries" de votre dossier Arduino.
 Y placer tous les fichiers.
-ou
-Télécharger le dépôt en ZIP et dans l'IDE Arduino : Croquis / inclure bibliothèque / ajouter la bibliothèque ZIP.
+Ou
+télécharger le dépôt en ZIP et dans l'IDE Arduino : Croquis / inclure bibliothèque / ajouter la bibliothèque ZIP.
 
 # Usage :
 Pour utiliser la librairie dans votre propre projet, importez-la avec  *Sketch > Import Library*.
@@ -26,9 +26,9 @@ Ressource utilisation : [P9813](https://github.com/pierron-asco-celda/Pierron_33
 
 # Schémas :
 
-![SCH-33188](/img/SCH-33188.png)
+![SCH-33112](/img/SCH-33112.jpg)
 
-![BRD-33188](/img/BRD-33188.png)
+![BRD-33112](/img/BRD-33112.jpg)
 
 
 # Exemple :
@@ -68,4 +68,4 @@ void loop()
 ```
 ## À propos :
 
-PIERRON ASCO-CELDA (https://www.pierron.fr/).
+PIERRON ASCO-CELDA (https://www.pierron.fr).
