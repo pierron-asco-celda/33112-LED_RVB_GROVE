@@ -17,7 +17,7 @@ Y placer tous les fichiers.</div>
 Ou
 <div style="text-align: justify">télécharger le dépôt en ZIP et dans l'IDE Arduino : Croquis / inclure bibliothèque / ajouter la bibliothèque ZIP.</div>
 
-<div style="text-align: justify">Pour utiliser la librairie dans votre propre projet, importez-la avec  *Sketch > Import Library*.</div>
+<div style="text-align: justify">Pour utiliser la librairie dans votre propre projet, importez-la avec  Sketch > Import Library.</div>
 
 # Usage :
 Pour l’utilisation de ce module référez-vous aux indications présentes sur le circuit imprimé GROVE.
