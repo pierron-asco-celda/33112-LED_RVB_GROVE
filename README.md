@@ -20,7 +20,7 @@ Ou
 <div style="text-align: justify">Pour utiliser la librairie dans votre propre projet, importez-la avec  Sketch > Import Library.</div>
 
 # Usage :
-Pour l’utilisation de ce module référez-vous aux indications présentes sur le circuit imprimé GROVE.
+Pour l’utilisation de ce module, référez-vous aux indications présentes sur le circuit imprimé GROVE.
 
 ![P-33112](/img/P-33112.jpg)
 
